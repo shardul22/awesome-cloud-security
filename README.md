@@ -66,6 +66,7 @@ A curated list of awesome cloud security related resources.
 * [ElectricEye](https://github.com/jonrau1/ElectricEye): Continuously monitor AWS services for configurations.
 * [Forseti security](https://github.com/forseti-security/forseti-security): GCP inventory monitoring and policy enforcement tool.
 * [Hammer](https://github.com/dowjones/hammer): A multi-account cloud security tool for AWS. It identifies misconfigurations and insecure data exposures within most popular AWS resources.
+* [InfraScan](https://infrascan.soldevelo.com/): An Advanced Infrastructure Auditor by SolDevelo for AWS cost antipatterns, IaC security issues, and container vulnerabilities.
 * [kics](https://github.com/Checkmarx/kics): Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code.
 * [Matano](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze data into an Apache Iceberg data lake and run realtime Python detections as code.
 * [Metabadger](https://github.com/salesforce/metabadger): Prevent SSRF attacks on AWS EC2 via automated upgrades to the more secure Instance Metadata Service v2 (IMDSv2).
